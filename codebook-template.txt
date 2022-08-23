@@ -1,0 +1,11 @@
+\documentclass{book}
+\usepackage[utf8]{inputenc}
+\usepackage[a5paper, inner=2cm, outer=0.5cm, top=2cm, bottom=1cm]{geometry}
+
+\newcommand{\U}{\underline{\hspace{1em}}}
+
+\begin{document}
+
+<pageshere>
+
+\end{document}
